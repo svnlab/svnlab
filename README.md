@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 
 ![](http://antzuhl.cn:4000/get/@svnlab.readme)
 
-![info](https://github-readme-stats.vercel.app/api?username=svnlab&show_icons=true&count_private=true&hide=prs&theme=dark)
+<p align="left">
+<a href="https://github.com/svnlab">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svnlab&layout=compact&langs_count=10&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=svnlab&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</a>
+</p>
