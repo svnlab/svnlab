@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm jack xu!
+Hi! I'm svnlab author!
 <p><em>Software Enginner at Shanghai </em></p>
 
 ![](http://antzuhl.cn:4000/get/@svnlab.readme)
