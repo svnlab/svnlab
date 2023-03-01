@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 Hi! I'm svnlab author!
-<p><em>Software Enginner at Shanghai </em></p>
+<p><em>Software Enginner at China Shanghai </em></p>
 
 ![](http://antzuhl.cn:4000/get/@svnlab.readme)
 
