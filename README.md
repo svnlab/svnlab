@@ -19,7 +19,7 @@ Hi! I'm <a href="https://svnlab.github.io/">svnlab</a> author!
 <p align="left">
 <a href="https://github.com/svnlab">
 
-  ![info](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svnlab&layout=compact&langs_count=10&theme=dark)
-  ![info](https://github-readme-stats.vercel.app/api?username=svnlab&show_icons=true&count_private=true&hide=prs&theme=dark)
+  ![info](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svnlab&layout=compact&langs_count=10&theme=buefy)
+  ![info](https://github-readme-stats-eight-theta.vercel.app/api?username=svnlab&show_icons=true&theme=buefy&include_all_commits=true&count_private=true)
 </a>
 </p>
