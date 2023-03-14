@@ -16,10 +16,10 @@ Hi! I'm <a href="https://svnlab.github.io/">svnlab</a> author!
 
 ![](http://antzuhl.cn:4000/get/@svnlab.readme)
 
+
 <p align="left">
 <a href="https://github.com/svnlab">
-
-  ![svnlab's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svnlab&layout=compact&langs_count=10&theme=buefy)
-  ![svnlab's GitHub stats](https://github-readme-stats.vercel.app/api?username=svnlab&show_icons=true&count_private=true&theme=buefy&include_all_commits=true)
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svnlab&layout=compact&langs_count=10&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=svnlab&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </a>
 </p>
